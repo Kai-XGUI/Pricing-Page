@@ -42,7 +42,7 @@ pricing-page/
 Follow these steps to run the project locally:
 
 1️⃣ Clone the repository
-git clone https://github.com/your-username/pricing-page.git
+git clone  https://github.com/Kai-XGUI/Pricing-Page
 2️⃣ Open the folder
 cd pricing-page
 3️⃣ Run the project
